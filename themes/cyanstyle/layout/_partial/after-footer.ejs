@@ -1,13 +1,13 @@
-<script src="js/jquery-2.0.3.min.js"></script>
+<script src="<%=config.url%>/js/jquery-2.0.3.min.js"></script>
 
 <% if (theme.fancybox){ %>
-  <%- css('fancybox/jquery.fancybox') %>
-  <%- js('fancybox/jquery.fancybox.pack') %>
+  <%- css(config.url+'/fancybox/jquery.fancybox') %>
+  <%- js(config.url+'/fancybox/jquery.fancybox.pack') %>
 <% } %>
 
 <%- js('js/script') %>
 
-<script src="js/navigation.js"></script>
+<script src="<%=config.url%>/js/navigation.js"></script>
 
 <script>
     //Kill XP and IE8

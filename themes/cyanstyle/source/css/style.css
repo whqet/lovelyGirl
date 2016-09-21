@@ -746,8 +746,8 @@ section[role="banner"] {
 	line-height: 1.846153846;
 }
 .widget-area .widget p {
-	margin-bottom: 24px;
-	margin-bottom: 1.714285714rem;
+	/*margin-bottom: 24px;*/
+	/*margin-bottom: 1.714285714rem;*/
 }
 .widget-area .textwidget ul {
 	list-style: disc outside;
@@ -935,8 +935,8 @@ article.sticky .featured-post {
 .entry-summary p,
 .comment-content p,
 .mu_register p {
-	margin: 0 0 24px;
-	margin: 0 0 1.714285714rem;
+	/*margin: 0 0 24px;
+	margin: 0 0 1.714285714rem;*/
 	line-height: 1.714285714;
 }
 
