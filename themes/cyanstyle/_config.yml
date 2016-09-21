@@ -1,13 +1,10 @@
 # Header
 menu:
-  电子书: http://it-ebooks.flygon.net/
-  代码仓库: https://github.com/wizardforcel
-  简历: http://wizardforcel.github.io/resume/
-  待填坑: /todo
-  苍海国际: http://www.258ch.com/
-  留言板: /about
+  网站首页: index.html
+  这就是我: /about
+  我的班级: http://201604ban.bhxx.net
+  我的学校: http://www.bhxx.net
   RSS: /atom.xml
-  "fork me on github": https://github.com/wizardforcel/blog
 
 # Content
 excerpt_link: 更多内容
@@ -20,21 +17,19 @@ fancybox: true
 # Sidebar
 widgets:
 - about
-- support
-- music
 - recent_posts
 - archive
 - category
 - tagcloud
 - link
-- account
+- music
 
 # Miscellaneous
 google_analytics:
-duoshuo_shortname: flhexo
+#duoshuo_shortname: flhexo
 rss: /atom.xml
-favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
-google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
-baidu_site_verification: Nzwx7HuplM
-bing_site_verification: 9E9EA92F7E5327E1FE8A5196D5253664
-music: http://7u2hdm.com1.z0.glb.clouddn.com/bg.mp3
+#favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
+#google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
+#baidu_site_verification: Nzwx7HuplM
+#bing_site_verification: 9E9EA92F7E5327E1FE8A5196D5253664
+music: https://whqet.github.io/lovelyGirl/mp3/baby.mp3
