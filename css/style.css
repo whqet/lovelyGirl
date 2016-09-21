@@ -593,7 +593,7 @@ a:hover {
   background-color: #050a10;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
