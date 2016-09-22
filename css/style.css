@@ -257,6 +257,27 @@ img.wp-smiley,
 	padding: 3%;
 }
 
+/* article gallery*/
+.article-gallery{
+	
+}
+.article-gallery-photos{
+	
+}
+.article-gallery-img{
+	width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.article-gallery-thumbnail{
+	width:150px ;
+	padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
 /* Navigation */
 #pagination {
   zoom: 1;
