@@ -265,12 +265,12 @@ img.wp-smiley,
 	
 }
 .article-gallery-img{
-	width: 150px;
+	width: 60px;
     float: left;
     margin-right: 30px;
 }
 .article-gallery-thumbnail{
-	width:150px ;
+	width:60px ;
 	padding: 4px;
     line-height: 1.42857143;
     background-color: #fff;
