@@ -669,6 +669,15 @@ footer[role="contentinfo"] a:hover {
 	font-size: 1.428571429rem;
 	line-height: 1.2;
 	font-weight: normal;
+	position: relative;
+}
+.entry-header .entry-title::after{
+	content: "";
+	width: 2px;
+	height: 20px;
+	position: absolute;
+	left: -20px;
+	top: 0px;
 }
 .entry-header .entry-title a {
 	text-decoration: none;
