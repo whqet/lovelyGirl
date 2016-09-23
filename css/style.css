@@ -682,7 +682,7 @@ footer[role="contentinfo"] a:hover {
 	transition:left .5s;
 }
 .entry-header:hover .entry-title::after{
-	left: -26px;
+	left: -45px;
 }
 .entry-header .entry-title a {
 	text-decoration: none;
