@@ -674,10 +674,11 @@ footer[role="contentinfo"] a:hover {
 .entry-header .entry-title::after{
 	content: "";
 	width: 2px;
-	height: 20px;
+	height: 28px;
+	background-color:rgba(0,0,0,.4);
 	position: absolute;
 	left: -20px;
-	top: 0px;
+	top: 2px;
 }
 .entry-header .entry-title a {
 	text-decoration: none;
