@@ -679,6 +679,10 @@ footer[role="contentinfo"] a:hover {
 	position: absolute;
 	left: -20px;
 	top: 3px;
+	transition:left .5s;
+}
+.entry-header:hover .entry-title::after{
+	left: -26px;
 }
 .entry-header .entry-title a {
 	text-decoration: none;
