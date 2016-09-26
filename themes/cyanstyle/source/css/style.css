@@ -760,6 +760,7 @@ section[role="banner"] {
 }
 .widget-area .widget a {
 	color: rgb(0, 0, 0); /* Widget Link Normal*/
+	display:inline-block;
 }
 .widget-area .widget a:hover {
 	color: rgb(81, 165, 168); /* Widget Link Hover*/
@@ -1633,6 +1634,8 @@ a.comment-edit-link:hover {
     word-wrap: break-word;
     font-size: 0.9em;
 }
+
+
 
 /* List count */
 .category-list-count, .tag-list-count, .archive-list-count {
